@@ -1,0 +1,17 @@
+{
+  "name": "day_2_assignment_binary_search",
+  "version": "1.0.2",
+  "description": "Binary Search DSA Algorithum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Binary",
+    "Search",
+    "DSA",
+    "Algorithum"
+  ],
+  "author": "shubhamchopde090@gmail.com",
+  "license": "ISC"
+}
